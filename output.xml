@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.10.7 on win32)" generated="20220926 13:07:09.434" rpa="false" schemaversion="3">
+<suite id="s1" name="Hello" source="C:\Projetos\qaninja\vtd2\trade-sticker\hello.robot">
+<test id="s1-t1" name="Um simples caso de teste" line="5">
+<kw name="Log To Console" library="BuiltIn">
+<arg>Hello Robot</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" starttime="20220926 13:07:09.481" endtime="20220926 13:07:09.481"/>
+</kw>
+<status status="PASS" starttime="20220926 13:07:09.480" endtime="20220926 13:07:09.482"/>
+</test>
+<doc>Um simples arquivo em Robot</doc>
+<status status="PASS" starttime="20220926 13:07:09.438" endtime="20220926 13:07:09.484"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Hello">Hello</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
