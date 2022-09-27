@@ -1,0 +1,44 @@
+{"level":30,"time":"2022-09-27T18:18:22.306Z","pid":11028,"hostname":"RONDI-PC","msg":"Listening on 4828"}
+{"level":30,"time":"2022-09-27T18:18:22.435Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:22.436Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:22.441Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:22.442Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:22.449Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-09-27T18:18:23.796Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-09-27T18:18:23.831Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-09-27T18:18:23.832Z","pid":11028,"hostname":"RONDI-PC","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-09-27T18:18:23.933Z","pid":11028,"hostname":"RONDI-PC","msg":"Changed active context"}
+{"level":30,"time":"2022-09-27T18:18:24.589Z","pid":11028,"hostname":"RONDI-PC","msg":"Video path: undefined"}
+{"level":30,"time":"2022-09-27T18:18:24.589Z","pid":11028,"hostname":"RONDI-PC","msg":"Changed active page"}
+{"level":30,"time":"2022-09-27T18:18:26.904Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method newPage"}
+{"level":30,"time":"2022-09-27T18:18:26.923Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method getText"}
+{"level":30,"time":"2022-09-27T18:18:26.924Z","pid":11028,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with .logo-container h2 in page."}
+{"level":30,"time":"2022-09-27T18:18:27.036Z","pid":11028,"hostname":"RONDI-PC","msg":"Retrieved text for element .logo-container h2 containing Conectando colecionadores de figurinhas da copa."}
+{"level":30,"time":"2022-09-27T18:18:27.036Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method getText"}
+{"level":30,"time":"2022-09-27T18:18:27.042Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-09-27T18:18:27.743Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-09-27T18:18:27.758Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:27.768Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:27.777Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:27.784Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:27.791Z","pid":11028,"hostname":"RONDI-PC","msg":"Changed active context"}
+{"level":30,"time":"2022-09-27T18:18:27.792Z","pid":11028,"hostname":"RONDI-PC","msg":"Changing current active page"}
+{"level":30,"time":"2022-09-27T18:18:27.792Z","pid":11028,"hostname":"RONDI-PC","msg":"Changed active page"}
+{"level":30,"time":"2022-09-27T18:18:27.809Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:27.817Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:27.821Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-09-27T18:18:27.822Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-09-27T18:18:27.824Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-09-27T18:18:27.824Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-09-27T18:18:27.832Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:27.836Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:27.839Z","pid":11028,"hostname":"RONDI-PC","msg":"Changed active context"}
+{"level":30,"time":"2022-09-27T18:18:27.839Z","pid":11028,"hostname":"RONDI-PC","msg":"Changing current active page"}
+{"level":30,"time":"2022-09-27T18:18:27.839Z","pid":11028,"hostname":"RONDI-PC","msg":"Changed active page"}
+{"level":30,"time":"2022-09-27T18:18:27.842Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-09-27T18:18:27.871Z","pid":11028,"hostname":"RONDI-PC","msg":"Removed page=a1e3b24c-b327-4d06-889c-71b1ae72a3f4 from context=8d5b82e3-0f68-4063-bc12-83ab0cf4d604 page stack"}
+{"level":30,"time":"2022-09-27T18:18:27.962Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-09-27T18:18:27.995Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:27.996Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T18:18:28.158Z","pid":11028,"hostname":"RONDI-PC","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-09-27T18:18:28.556Z","pid":11028,"hostname":"RONDI-PC","msg":"End of node method closeAllBrowsers"}
