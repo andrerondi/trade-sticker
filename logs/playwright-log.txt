@@ -1,51 +1,94 @@
-{"level":30,"time":"2022-09-27T20:00:13.526Z","pid":6808,"hostname":"RONDI-PC","msg":"Listening on 10419"}
-{"level":30,"time":"2022-09-27T20:00:13.682Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:13.683Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:13.689Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:13.689Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:13.701Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method newBrowser"}
-{"level":30,"time":"2022-09-27T20:00:15.093Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method newBrowser"}
-{"level":30,"time":"2022-09-27T20:00:15.145Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method newPage"}
-{"level":30,"time":"2022-09-27T20:00:15.146Z","pid":6808,"hostname":"RONDI-PC","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2022-09-27T20:00:15.213Z","pid":6808,"hostname":"RONDI-PC","msg":"Changed active context"}
-{"level":30,"time":"2022-09-27T20:00:15.899Z","pid":6808,"hostname":"RONDI-PC","msg":"Video path: undefined"}
-{"level":30,"time":"2022-09-27T20:00:15.900Z","pid":6808,"hostname":"RONDI-PC","msg":"Changed active page"}
-{"level":30,"time":"2022-09-27T20:00:18.084Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method newPage"}
-{"level":30,"time":"2022-09-27T20:00:18.099Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method fillText"}
-{"level":30,"time":"2022-09-27T20:00:18.101Z","pid":6808,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
-{"level":30,"time":"2022-09-27T20:00:18.226Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method fillText"}
-{"level":30,"time":"2022-09-27T20:00:18.234Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method fillText"}
-{"level":30,"time":"2022-09-27T20:00:18.234Z","pid":6808,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with css=input[name=password] in page."}
-{"level":30,"time":"2022-09-27T20:00:18.287Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method fillText"}
-{"level":30,"time":"2022-09-27T20:00:18.300Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method click"}
-{"level":30,"time":"2022-09-27T20:00:18.300Z","pid":6808,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
-{"level":30,"time":"2022-09-27T20:00:18.420Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method click"}
-{"level":30,"time":"2022-09-27T20:00:18.440Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method getText"}
-{"level":30,"time":"2022-09-27T20:00:18.441Z","pid":6808,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with css=.header-content strong in page."}
-{"level":30,"time":"2022-09-27T20:00:18.526Z","pid":6808,"hostname":"RONDI-PC","msg":"Retrieved text for element css=.header-content strong containing Aquela figurinha incrível a um clique de distância."}
-{"level":30,"time":"2022-09-27T20:00:18.526Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method getText"}
-{"level":30,"time":"2022-09-27T20:00:23.545Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:23.553Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:23.560Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:23.566Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:23.571Z","pid":6808,"hostname":"RONDI-PC","msg":"Changed active context"}
-{"level":30,"time":"2022-09-27T20:00:23.571Z","pid":6808,"hostname":"RONDI-PC","msg":"Changing current active page"}
-{"level":30,"time":"2022-09-27T20:00:23.571Z","pid":6808,"hostname":"RONDI-PC","msg":"Changed active page"}
-{"level":30,"time":"2022-09-27T20:00:23.585Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:23.598Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:23.603Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2022-09-27T20:00:23.603Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2022-09-27T20:00:23.608Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2022-09-27T20:00:23.608Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2022-09-27T20:00:23.620Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:23.622Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:23.625Z","pid":6808,"hostname":"RONDI-PC","msg":"Changed active context"}
-{"level":30,"time":"2022-09-27T20:00:23.625Z","pid":6808,"hostname":"RONDI-PC","msg":"Changing current active page"}
-{"level":30,"time":"2022-09-27T20:00:23.625Z","pid":6808,"hostname":"RONDI-PC","msg":"Changed active page"}
-{"level":30,"time":"2022-09-27T20:00:23.633Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method closeContext"}
-{"level":30,"time":"2022-09-27T20:00:23.666Z","pid":6808,"hostname":"RONDI-PC","msg":"Removed page=7a7e25b0-6865-484c-8995-793cf8916ec7 from context=bf96b60e-9522-4c7e-8511-eebfc32a6f05 page stack"}
-{"level":30,"time":"2022-09-27T20:00:23.793Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method closeContext"}
-{"level":30,"time":"2022-09-27T20:00:23.811Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:23.812Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-09-27T20:00:23.939Z","pid":6808,"hostname":"RONDI-PC","msg":"Start of node method closeAllBrowsers"}
-{"level":30,"time":"2022-09-27T20:00:24.479Z","pid":6808,"hostname":"RONDI-PC","msg":"End of node method closeAllBrowsers"}
+{"level":30,"time":"2022-09-27T23:31:03.735Z","pid":17144,"hostname":"RONDI-PC","msg":"Listening on 33972"}
+{"level":30,"time":"2022-09-27T23:31:04.152Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:04.153Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:04.158Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:04.158Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:04.168Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-09-27T23:31:05.766Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-09-27T23:31:05.775Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-09-27T23:31:05.776Z","pid":17144,"hostname":"RONDI-PC","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-09-27T23:31:05.834Z","pid":17144,"hostname":"RONDI-PC","msg":"Changed active context"}
+{"level":30,"time":"2022-09-27T23:31:06.843Z","pid":17144,"hostname":"RONDI-PC","msg":"Video path: undefined"}
+{"level":30,"time":"2022-09-27T23:31:06.844Z","pid":17144,"hostname":"RONDI-PC","msg":"Changed active page"}
+{"level":30,"time":"2022-09-27T23:31:09.222Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method newPage"}
+{"level":30,"time":"2022-09-27T23:31:09.236Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-09-27T23:31:09.238Z","pid":17144,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2022-09-27T23:31:09.391Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method fillText"}
+{"level":30,"time":"2022-09-27T23:31:09.395Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-09-27T23:31:09.395Z","pid":17144,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with css=input[name=password] in page."}
+{"level":30,"time":"2022-09-27T23:31:09.433Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method fillText"}
+{"level":30,"time":"2022-09-27T23:31:09.442Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-27T23:31:09.442Z","pid":17144,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2022-09-27T23:31:09.569Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method click"}
+{"level":30,"time":"2022-09-27T23:31:09.582Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getText"}
+{"level":30,"time":"2022-09-27T23:31:09.583Z","pid":17144,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with css=.header-content strong in page."}
+{"level":30,"time":"2022-09-27T23:31:09.648Z","pid":17144,"hostname":"RONDI-PC","msg":"Retrieved text for element css=.header-content strong containing Aquela figurinha incrível a um clique de distância."}
+{"level":30,"time":"2022-09-27T23:31:09.649Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getText"}
+{"level":30,"time":"2022-09-27T23:31:09.659Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:09.680Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:09.686Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:09.694Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:09.703Z","pid":17144,"hostname":"RONDI-PC","msg":"Changed active context"}
+{"level":30,"time":"2022-09-27T23:31:09.705Z","pid":17144,"hostname":"RONDI-PC","msg":"Changing current active page"}
+{"level":30,"time":"2022-09-27T23:31:09.706Z","pid":17144,"hostname":"RONDI-PC","msg":"Changed active page"}
+{"level":30,"time":"2022-09-27T23:31:09.721Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:09.727Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:09.730Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-09-27T23:31:09.731Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-09-27T23:31:09.733Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-09-27T23:31:09.735Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-09-27T23:31:09.743Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:09.745Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:09.748Z","pid":17144,"hostname":"RONDI-PC","msg":"Changed active context"}
+{"level":30,"time":"2022-09-27T23:31:09.748Z","pid":17144,"hostname":"RONDI-PC","msg":"Changing current active page"}
+{"level":30,"time":"2022-09-27T23:31:09.748Z","pid":17144,"hostname":"RONDI-PC","msg":"Changed active page"}
+{"level":30,"time":"2022-09-27T23:31:09.755Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-09-27T23:31:09.799Z","pid":17144,"hostname":"RONDI-PC","msg":"Removed page=19355ce9-5e1e-457c-a575-2576f175acef from context=99f88a34-8b54-4da4-aee1-abfde8b10a95 page stack"}
+{"level":30,"time":"2022-09-27T23:31:09.952Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-09-27T23:31:09.980Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:09.981Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:09.992Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-09-27T23:31:11.570Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-09-27T23:31:11.575Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-09-27T23:31:11.575Z","pid":17144,"hostname":"RONDI-PC","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-09-27T23:31:11.611Z","pid":17144,"hostname":"RONDI-PC","msg":"Changed active context"}
+{"level":30,"time":"2022-09-27T23:31:12.533Z","pid":17144,"hostname":"RONDI-PC","msg":"Video path: undefined"}
+{"level":30,"time":"2022-09-27T23:31:12.533Z","pid":17144,"hostname":"RONDI-PC","msg":"Changed active page"}
+{"level":30,"time":"2022-09-27T23:31:13.934Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method newPage"}
+{"level":30,"time":"2022-09-27T23:31:13.948Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-09-27T23:31:13.948Z","pid":17144,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2022-09-27T23:31:14.077Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method fillText"}
+{"level":30,"time":"2022-09-27T23:31:14.085Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-09-27T23:31:14.085Z","pid":17144,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with css=input[name=password] in page."}
+{"level":30,"time":"2022-09-27T23:31:14.118Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method fillText"}
+{"level":30,"time":"2022-09-27T23:31:14.123Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-27T23:31:14.123Z","pid":17144,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2022-09-27T23:31:14.214Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method click"}
+{"level":30,"time":"2022-09-27T23:31:14.225Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-09-27T23:31:14.226Z","pid":17144,"hostname":"RONDI-PC","msg":"Strict mode is enabled, find Locator with css=.Toastify__toast-body div >> text= Credenciais inválidas, tente novamente! in page."}
+{"level":30,"time":"2022-09-27T23:31:14.249Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-09-27T23:31:19.266Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:19.270Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:19.273Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:19.276Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:19.282Z","pid":17144,"hostname":"RONDI-PC","msg":"Changed active context"}
+{"level":30,"time":"2022-09-27T23:31:19.283Z","pid":17144,"hostname":"RONDI-PC","msg":"Changing current active page"}
+{"level":30,"time":"2022-09-27T23:31:19.283Z","pid":17144,"hostname":"RONDI-PC","msg":"Changed active page"}
+{"level":30,"time":"2022-09-27T23:31:19.296Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:19.304Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:19.308Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-09-27T23:31:19.308Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-09-27T23:31:19.314Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-09-27T23:31:19.315Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-09-27T23:31:19.325Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:19.331Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:19.335Z","pid":17144,"hostname":"RONDI-PC","msg":"Changed active context"}
+{"level":30,"time":"2022-09-27T23:31:19.335Z","pid":17144,"hostname":"RONDI-PC","msg":"Changing current active page"}
+{"level":30,"time":"2022-09-27T23:31:19.335Z","pid":17144,"hostname":"RONDI-PC","msg":"Changed active page"}
+{"level":30,"time":"2022-09-27T23:31:19.338Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-09-27T23:31:19.365Z","pid":17144,"hostname":"RONDI-PC","msg":"Removed page=c9f89a6c-cf05-4a8e-96e8-7d86e0b0b252 from context=35748694-a6c1-4414-ab08-23e06428b687 page stack"}
+{"level":30,"time":"2022-09-27T23:31:19.538Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-09-27T23:31:19.604Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:19.604Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-27T23:31:19.750Z","pid":17144,"hostname":"RONDI-PC","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-09-27T23:31:20.732Z","pid":17144,"hostname":"RONDI-PC","msg":"End of node method closeAllBrowsers"}
